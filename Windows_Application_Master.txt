@@ -1,0 +1,40 @@
+Microsoft .NET Framework 4 Client Profile
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
+PCHealth
+Security Update for CAPICOM (KB931906)
+Security Update for Windows Internet Explorer 8 (KB2510531)
+Security Update for Windows Internet Explorer 8 (KB2909210)
+Security Update for Windows Internet Explorer 8 (KB2909921)
+Security Update for Windows Internet Explorer 8 (KB2936068)
+Security Update for Windows Internet Explorer 8 (KB2964358)
+Security Update for Windows Internet Explorer 8 (KB982381)
+Security Update for Windows Media Player (KB2803821-v2)
+Security Update for Windows XP (KB2834886)
+Security Update for Windows XP (KB2847311)
+Security Update for Windows XP (KB2850869)
+Security Update for Windows XP (KB2859537)
+Security Update for Windows XP (KB2862152)
+Security Update for Windows XP (KB2864063)
+Security Update for Windows XP (KB2868626)
+Security Update for Windows XP (KB2876217)
+Security Update for Windows XP (KB2876331)
+Security Update for Windows XP (KB2892075)
+Security Update for Windows XP (KB2893294)
+Security Update for Windows XP (KB2898715)
+Security Update for Windows XP (KB2900986)
+Security Update for Windows XP (KB2909212)
+Security Update for Windows XP (KB2914368)
+Security Update for Windows XP (KB2916036)
+Security Update for Windows XP (KB2922229)
+Security Update for Windows XP (KB2929961)
+Security Update for Windows XP (KB2930275)
+Security Update for Windows XP (KB2936068)
+Security Update for Windows XP (KB2964358)
+Update for Windows Internet Explorer 8 (KB2598845)
+Update for Windows XP (KB2467659)
+Update for Windows XP (KB2904266)
+Update for Windows XP (KB2934207)
+VMware Tools
+WebFldrs XP
+Windows Internet Explorer 8
