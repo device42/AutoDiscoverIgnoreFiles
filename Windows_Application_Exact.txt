@@ -1,4 +1,5 @@
 Microsoft .NET Framework 4 Client Profile
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148
 Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
 Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161
 PCHealth
