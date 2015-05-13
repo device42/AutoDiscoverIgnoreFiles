@@ -1,4 +1,6 @@
 Update for Microsoft
+Hotfix for Microsoft
 Update for Windows
+Hotfix for Windows
 Redistributable
 Microsoft .NET Framework
