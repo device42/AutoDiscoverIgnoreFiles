@@ -25,6 +25,7 @@ ClipSVC
 clr_optimization_v2.0.50727_32
 clr_optimization_v2.0.50727_64
 clr_optimization_v4.0.30319_32
+clr_optimization_v4.0.30319_64
 CommsAPHost
 COMSysApp
 CoreUIRegistrar
